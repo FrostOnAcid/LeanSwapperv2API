@@ -117,7 +117,7 @@
             ]
           },
           {
-              "asset":"FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
+              "asset":"FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RaiderSilver.uasset",
             "msg":"Swapped Head.",
             "swaps": [
               {
@@ -135,8 +135,8 @@
             ]
           },
           {
-              "asset":"FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
-            "msg":"Swapped Glasses.",
+              "asset":"FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_RaiderSilver.uasset",
+            "msg":"Swapped Hat.",
             "swaps": [
               {
                 "search":"/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Meshes/Parts/F_MED_Raider_Pink_FaceAcc.F_MED_Raider_Pink_FaceAcc",
@@ -178,7 +178,7 @@
         "data": [
           {
             "asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse.uasset",
-            "msg":"Swapped backpack...",
+            "msg":"Swapped Backpack",
             "swaps": [
               {
                 "search":"/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
