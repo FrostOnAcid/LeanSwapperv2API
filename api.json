@@ -157,7 +157,7 @@
             ]
           }
         ]
-    }
+    },
 
 
 
@@ -166,7 +166,31 @@
 
 
 
-
+    {
+        "index":3,
+        "Type": "Backpack",
+        "SwapFromName": "Blackout Bag",
+        "SwapToName": "Backup Plan",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/BID_029_RetroGrey/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_StreetFashionEclipse.uasset",
+            "msg":"Swapped Backpack",
+            "swaps": [
+              {
+                "search":"/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_Pack.F_MED_Street_Fashion_Red_Pack",
+                "replace":"/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_02.Male_Commando_02"
+              },
+              {
+                "search":"/Game/Accessories/FORT_Backpacks/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Backpack.F_MED_StreetFashionEclipse_Backpac",
+                "replace":"/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor"
+              }
+            ]
+          }
+        ]
+      }
 
     ]
   }
