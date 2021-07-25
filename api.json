@@ -323,7 +323,7 @@
         "AthenaType": "Character",
         "SwapFromName": "She Hulk",
         "SwapToName": "Bordwalk Ruby",
-        "SwapFromImage": "https://cdn.discordapp.com/attachments/866424993697366016/868818597500317706/6eaed5c6-c4b4-4832-b591-48bd76d47f55_1.png",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_842_athena_commando_f_hightowerhoneydew/variants/progressive/stage2.png",
         "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/smallicon.png",
         "Info": null,
         "data": [
@@ -370,6 +370,31 @@
             ]
           }
         ]
-      }
+      },
+      {
+        "index":9,
+        "AthenaType": "Other",
+        "SwapFromName": "New Year 2020",
+        "SwapToName": "Tidal Wave",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/wrap_183_newyear2020/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/wrap_085_beach/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
+            "msg": "Swapped animations...",
+            "swaps": [
+              {
+                "search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+                "replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+              },
+          {
+                "search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+                "replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+              }
+            ]
+          }
+        ]
+      },
     ]
   }
