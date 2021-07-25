@@ -332,10 +332,6 @@
             "msg": "Swapped Body.",
             "swaps": [
               {
-                "search": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-                "replace": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton"
-              },
-              {
                 "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/F_MED_HighTower_Honeydew_Swole.F_MED_HighTower_Honeydew_Swole",
                 "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/F_MED_Street_Fashion_Summer.F_MED_Street_Fashion_Summer"
               },
@@ -349,10 +345,6 @@
             "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_HightowerHoneydew_Swole.uasset",
             "msg": "Swapped Head.",
             "swaps": [
-              {
-                "search": "/Game/Characters/CharacterColorSwatches/Hair/HairColor_01.HairColor_01",
-                "replace": "/Game/Characters/CharacterColorSwatches/Hair/Lean_01.Lean_01"
-              },
               {
                 "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HighTower_Honeydew_Head_01/Meshes/F_MED_HighTower_Honeydew_Head_01.F_MED_HighTower_Honeydew_Head_01",
                 "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01"
