@@ -822,6 +822,57 @@
         ]
       }
         ]
-      }
-    ]
-  }
+      },
+      {
+        "index": 16,
+        "AthenaType": "Pickaxe",
+        "SwapFromName": "Default",
+        "SwapToName": "     Raider's Revenge",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/defaultpickaxe/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01.uasset",
+            "msg": "Swapped Pickaxe!",
+            "swaps": 
+            [
+              {
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II",
+                "replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic"
+              },
+              {
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Default_MarkII/Meshes/SK_Pickaxe_Default_Mark_II.SK_Pickaxe_Default_Mark_II",
+                "replace": "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Impact_Cue",
+                "replace": "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_LockJaw_Cue"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Impact_Cue.Pickaxe_DefaultV2_Impact_Cue",
+                "replace": "/Game/Sounds/Fort_Impact_Sounds/Flesh/Player_Impact_PA_LockJaw_Cue.Player_Impact_PA_LockJaw_Cue"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Equip_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Equip_Cue.Pickaxe_DefaultV2_Equip_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Swing_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Swing_Cue.Pickaxe_DefaultV2_Swing_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"
+              }
+
+            ]
+       }   
+      ]
+    }
+  ]
+}
