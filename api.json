@@ -868,11 +868,52 @@
               {
                 "search": "/Game/Athena/Sounds/Weapons/PickAxes/DefaultV2/Pickaxe_DefaultV2_Swing_Cue.Pickaxe_DefaultV2_Swing_Cue",
                 "replace": "/Game/Athena/Sounds/Weapons/PickAxes/PickAxe_Lockjaw_Swing_Athena_Cue.PickAxe_LockJaw_Swing_Athena_Cue"
+            }
+        ]
+      }
+        ]
+      },
+      {
+        "index": 17,
+        "AthenaType": "Pickaxe",
+        "SwapFromName": "Default",
+        "SwapToName": "     Raider's Revenge",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/defaultpickaxe/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_HightowerTomato1H.uasset",
+            "msg": "Swapped Pickaxe!",
+            "swaps": 
+            [
+              {
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_HighTower_Tomato/Meshes/HighTower_Tomato.HighTower_Tomato",
+                "replace": "/Game/Weapons/FORT_Melee/Pickaxe_DonutPlate1H/Meshes/Donut_Plate_1h.Donut_Plate_1h"
+              },
+              {
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_HighTower_Tomato/FX/NS_HighTower_Tomato_AnimTrail.NS_HighTower_Tomato_AnimTrail",
+                "replace": "/Game/Weapons/FORT_Melee/Pickaxe_DonutPlate1H/FX/P_DonutPlate1H_Trail.P_DonutPlate1H_Trail"
+              },
+              {
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_HighTower_Tomato/FX/NS_HighTower_Tomato_Idle.NS_HighTower_Tomato_Idle",
+                "replace": "/0ame/Weapons/FORT_Melee/Pickaxe_HighTower_Tomato/FX/NS_HighTower_Tomato_Idle.NS_HighTower_Tomato_Idle"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/Hightower_Tomato/PA_Hightower_Tomato_Swing_Cue.PA_Hightower_Tomato_Swing_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Donut_Plate/PickaxeSwing_DonutPlate.PickaxeSwing_DonutPlate"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/Hightower_Tomato/PA_Hightower_Tomato_Ready_Cue.PA_Hightower_Tomato_Ready_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Donut_Plate/PickaxeReady_DonutPlate.PickaxeReady_DonutPlate"
+              },
+              {
+                "search": "/Game/Athena/Sounds/Weapons/PickAxes/Hightower_Tomato/PA_Hightower_Tomato_Impact_Cue.PA_Hightower_Tomato_Impact_Cue",
+                "replace": "/Game/Athena/Sounds/Weapons/PickAxes/Donut_Plate/PickaxeImpactEnemy_DonutPlate.PickaxeImpactEnemy_DonutPlate"
               }
-
-            ]
-       }   
-      ]
-    }
+        ]
+      }
+        ]
+      }
   ]
 }
