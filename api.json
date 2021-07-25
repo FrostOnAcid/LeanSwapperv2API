@@ -381,20 +381,16 @@
         "Info": null,
         "data": [
           {
-            "asset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BoogieDown.uasset",
-            "msg": "Swapped animations...",
+            "asset": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_183_NewYear2020.uasset",
+            "msg": "Swapped Wrap.",
             "swaps": [
               {
-                "search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
-                "replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
-              },
-          {
-                "search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
-                "replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+                "search": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020.MI_WeaponWrap_NewYear2020",
+                "replace": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_BeachSand.MI_WeaponWrap_BeachSand"
               }
             ]
           }
         ]
-      },
+      }
     ]
   }
