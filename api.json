@@ -826,8 +826,8 @@
       {
         "index": 17,
         "AthenaType": "Pickaxe",
-        "SwapFromName": "Default",
-        "SwapToName": "     Raider's Revenge",
+        "SwapFromName": "    Default",
+        "SwapToName": "Raider's Revenge",
         "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/defaultpickaxe/smallicon.png",
         "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/smallicon.png",
         "Info": null,
@@ -860,8 +860,8 @@
       {
         "index": 18,
         "AthenaType": "Pickaxe",
-        "SwapFromName": "     Mark 85",
-        "SwapToName": "         Psi-Blade",
+        "SwapFromName": "      Mark 85",
+        "SwapToName": "     Psi-Blade",
         "SwapFromImage": "https://image.fnbr.co/pickaxe/5f474fd763ee8ba7ffe9aef4/smallicon.png",
         "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_389_donutplate1h/smallicon.png",
         "Info": null,
