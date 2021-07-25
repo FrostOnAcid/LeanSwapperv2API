@@ -381,8 +381,8 @@
         "Info": null,
         "data": [
           {
-            "asset": "FortniteGame/Content/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020.uasset",
-            "msg": "Swapped Wrap. test",
+            "asset": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_183_NewYear2020.uasset",
+            "msg": "Swapped Wrap.",
             "swaps": [   
             {
                 "search": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020",
