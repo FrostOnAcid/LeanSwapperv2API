@@ -156,7 +156,7 @@
         "AthenaType": "Character",
         "SwapFromName": "Diamond Diva",
         "SwapToName": "Skull Trooper",
-        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/smallicon.png",
+        "SwapFromImage": "https://cdn.discordapp.com/attachments/866424993697366016/868812128386170890/transparent_8.png",
         "SwapToImage": "https://cdn.discordapp.com/attachments/866420919887331348/868458955444219944/sgnjl7agwdl51.png",
         "Info": null,
         "data": [
@@ -313,6 +313,75 @@
           {
                 "search": "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
                 "replace": "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "AthenaType": "Character",
+        "SwapFromName": "Frozen Red Knight",
+        "SwapToName": "Aerial Assault Trooper",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_294_athena_commando_f_redknightwinter/icon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_017_athena_commando_m/icon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RedKnightWinter.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+                "replace": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino.M_MED_Dark_Dino"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino_AnimBP.M_MED_Dark_Dino_AnimBP_C"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_32_RedKnight_Winter/Materials/M_F_MED_Commando_RedKnight_Winter.M_F_MED_Commando_RedKnight_Winter",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_04/Materials/M_Med_Soldier_04_CV04.M_Med_Soldier_04_CV04"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RedKnightWinter.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS.F_Med_HIS",
+                "replace": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_BLK.F_Med_BLK"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Chainmail/F_MED_Commando_RedKnight_Winter.F_MED_Commando_RedKnight_Winter",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Chainmail/"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_No_Hair.F_MED_Commando_No_Hair",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+                "replace": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Hats/Hat_F_Commando_RedKnightWinter.uasset",
+            "msg": "Swapped Hat.",
+            "swaps": [
+              {
+                "search": "/Game/Accessories/Hats/Materials/Hat_Commando_RedKnight_Winter.Hat_Commando_RedKnight_Winter",
+                "replace": "/Game/Accessories/Hats/Materials/Hat_M_Commando_02_V01.Hat_M_Commando_02_V01"
+              },
+              {
+                "search": "/Game/Accessories/Hats/Mesh/Female_Commando_BR_BlackKnight_01.Female_Commando_BR_BlackKnight_01",
+                "replace": "/Game/Accessories/Hats/Mesh/Male_Commando_02.Male_Commando_02"
               }
             ]
           }
