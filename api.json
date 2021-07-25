@@ -229,8 +229,8 @@
         "AthenaType": "Character",
         "SwapFromName": "Frozen Red Knight",
         "SwapToName": "Aerial Assault Trooper",
-        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_294_athena_commando_f_redknightwinter/icon.png",
-        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_017_athena_commando_m/icon.png",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_294_athena_commando_f_redknightwinter/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_017_athena_commando_m/smallicon.png",
         "Info": null,
         "data": [
           {
@@ -324,7 +324,7 @@
         "SwapFromName": "She Hulk",
         "SwapToName": "Bordwalk Ruby",
         "SwapFromImage": "https://cdn.discordapp.com/attachments/866424993697366016/868818597500317706/6eaed5c6-c4b4-4832-b591-48bd76d47f55_1.png",
-        "SwapToImage": "https://cdn.discordapp.com/attachments/866424993697366016/868818463832019015/Boardwalk_Ruby_-_Outfit_-_Fortnite.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/smallicon.png",
         "Info": null,
         "data": [
           {
