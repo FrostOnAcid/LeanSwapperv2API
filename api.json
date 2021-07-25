@@ -381,12 +381,12 @@
         "Info": null,
         "data": [
           {
-            "asset": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_183_NewYear2020.uasset",
-            "msg": "Swapped Wrap.",
-            "swaps": [
-              {
-                "search": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020.MI_WeaponWrap_NewYear2020",
-                "replace": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_BeachSand.MI_WeaponWrap_BeachSand"
+            "asset": "FortniteGame/Content/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020.uasset",
+            "msg": "Swapped Wrap. test1",
+            "swaps": [   
+            {
+                "search": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020",
+                "replace": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_BeachSand"
               }
             ]
           }
