@@ -391,6 +391,83 @@
             ]
           }
         ]
+      },
+      {
+        "index":10,
+        "AthenaType": "Other",
+        "SwapFromName": "Pumpgun",
+        "SwapToName": "OG Pumpgun",
+        "SwapFromImage": "https://cdn.discordapp.com/attachments/853982717934698518/862086516775452692/FUuSg5K.png",
+        "SwapToImage": "https://cdn.discordapp.com/attachments/853982717934698518/862086518196404254/fcBOC3I.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.uasset",
+            "msg": "Swapped Sound.",
+            "swaps": [
+                {
+                    "search": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base",
+                    "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader"
+                  },
+                  {
+                    "search": "/Game/Sounds/Fort_Weapons/Shotgun/Combat/Shotgun_Combat_Pickup_Cue.Shotgun_Combat_Pickup_Cue",
+                    "replace": "/Game/Sounds/Fort_GamePlay_Sounds/Loot/Shotgun_Pickup_Cue.Shotgun_Pickup_Cue"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"
+                  }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_Common.uasset",
+            "msg": "Swapped Texture.",
+            "swaps": [
+                {
+                    "search": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base",
+                    "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader"
+                  },
+                  {
+                    "search": "/Game/Sounds/Fort_Weapons/Shotgun/Combat/Shotgun_Combat_Pickup_Cue.Shotgun_Combat_Pickup_Cue",
+                    "replace": "/Game/Sounds/Fort_GamePlay_Sounds/Loot/Shotgun_Pickup_Cue.Shotgun_Pickup_Cue"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"
+                  }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.uasset",
+            "msg": "Swapped Material.",
+            "swaps": [
+                {
+                    "search": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Pump_Shotgun_Mark_II_Base.SK_Pump_Shotgun_Mark_II_Base",
+                    "replace": "/Game/Weapons/FORT_Shotguns/Mesh/SK_Crusader.SK_Crusader"
+                  },
+                  {
+                    "search": "/Game/Sounds/Fort_Weapons/Shotgun/Combat/Shotgun_Combat_Pickup_Cue.Shotgun_Combat_Pickup_Cue",
+                    "replace": "/Game/Sounds/Fort_GamePlay_Sounds/Loot/Shotgun_Pickup_Cue.Shotgun_Pickup_Cue"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base-L.T-Icon-Weapons-PumpShotgunMark2Base-L",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader-L.T-Icon-Weapons-SK-Crusader-L"
+                  },
+                  {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-PumpShotgunMark2Base.T-Icon-Weapons-PumpShotgunMark2Base",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Weapons-SK-Crusader.T-Icon-Weapons-SK-Crusader"
+                  }
+            ]
+          }
+        ]
       }
     ]
   }
