@@ -382,7 +382,7 @@
         "data": [
           {
             "asset": "FortniteGame/Content/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020.uasset",
-            "msg": "Swapped Wrap. test1",
+            "msg": "Swapped Wrap. test",
             "swaps": [   
             {
                 "search": "/Game/Weapons/WeaponSkins/Wraps/Materials/MI_WeaponWrap_NewYear2020",
@@ -395,7 +395,7 @@
       {
         "index":10,
         "AthenaType": "Other",
-        "SwapFromName": "Pumpgun 111",
+        "SwapFromName": "Pumpgun",
         "SwapToName": "OG Pumpgun",
         "SwapFromImage": "https://cdn.discordapp.com/attachments/853982717934698518/862086516775452692/FUuSg5K.png",
         "SwapToImage": "https://cdn.discordapp.com/attachments/853982717934698518/862086518196404254/fcBOC3I.png",
