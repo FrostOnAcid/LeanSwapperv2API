@@ -321,6 +321,51 @@
       {
         "index": 8,
         "AthenaType": "Character",
+        "SwapFromName": "Default",
+        "SwapToName": "Black Knight",
+        "SwapFromImage": "https://cdn.discordapp.com/attachments/866417037227851807/868849548091605002/Recruit_1_Chapter_2_-_Outfit_-_Fortnite.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_035_athena_commando_m_medieval/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_KnightB_M.CP_commando_KnightB_M"
+              },
+              {
+                "search": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
+                "replace": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_BlackKnight.Hat_M_Commando_BlackKnight"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "CP_Body_Commando_F_RebirthDefault0"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.uasset",
+            "msg": "Swapped Hat.",
+            "swaps": [
+              {
+                "search": "CP_Athena_Body_M_RebirthSoldier",
+                "replace": "CP_Athena_Body_M_RebirthSold1er"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "AthenaType": "Character",
         "SwapFromName": "She Hulk",
         "SwapToName": "Bordwalk Ruby",
         "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_842_athena_commando_f_hightowerhoneydew/variants/progressive/stage2.png",
@@ -372,7 +417,7 @@
         ]
       },
       {
-        "index":9,
+        "index":10,
         "AthenaType": "Other",
         "SwapFromName": "New Year 2020",
         "SwapToName": "    Tidal Wave",
@@ -393,7 +438,7 @@
         ]
       },
       {
-        "index":10,
+        "index":11,
         "AthenaType": "Other",
         "SwapFromName": "Pumpgun",
         "SwapToName": "       OG Pumpgun",
