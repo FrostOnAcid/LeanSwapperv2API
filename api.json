@@ -367,6 +367,112 @@
         "index": 9,
         "AthenaType": "Character",
         "SwapFromName": "She Hulk",
+        "SwapToName": "Travis Scott",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_842_athena_commando_f_hightowerhoneydew/variants/progressive/stage2.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/F_MED_HighTower_Honeydew_Swole.F_MED_HighTower_Honeydew_Swole",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/F_MED_Street_Fashion_Summer.F_MED_Street_Fashion_Summer"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/F_MED_HighTower_Honeydew_Swole_AnimBP.F_MED_HighTower_Honeydew_Swole_AnimBP_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/F_MED_Street_Fashion_Summer_AnimBP.F_MED_Street_Fashion_Summer_AnimBP_C"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HighTower_Honeydew_Head_01/Meshes/F_MED_HighTower_Honeydew_Head_01.F_MED_HighTower_Honeydew_Head_01",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HighTower_Honeydew_Head_01/Meshes/F_MED_HighTower_Honeydew_Head_AnimBP_Child.F_MED_HighTower_Honeydew_Head_AnimBP_Child_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_AnimBP_Child.F_MED_Angel_Head_AnimBP_Child_C"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Hat.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/Parts/F_MED_HighTower_Honeydew_Swole_FaceAcc.F_MED_HighTower_Honeydew_Swole_FaceAcc",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/Parts/F_MED_Street_Fashion_Summer_FaceAcc.F_MED_Street_Fashion_Summer_FaceAcc"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/Parts/F_MED_HighTower_Honeydew_Swole_FaceAcc_AnimBP.F_MED_HighTower_Honeydew_Swole_FaceAcc_AnimBP_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/Parts/F_MED_Street_Fashion_Summer_FaceAcc_AnimBP.F_MED_Street_Fashion_Summer_FaceAcc_AnimBP_C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "AthenaType": "Character",
+        "SwapFromName": "She Hulk",
+        "SwapToName": "Wildcat",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_842_athena_commando_f_hightowerhoneydew/variants/progressive/stage2.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/F_MED_HighTower_Honeydew_Swole.F_MED_HighTower_Honeydew_Swole",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/F_MED_Street_Fashion_Summer.F_MED_Street_Fashion_Summer"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/F_MED_HighTower_Honeydew_Swole_AnimBP.F_MED_HighTower_Honeydew_Swole_AnimBP_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/F_MED_Street_Fashion_Summer_AnimBP.F_MED_Street_Fashion_Summer_AnimBP_C"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HighTower_Honeydew_Head_01/Meshes/F_MED_HighTower_Honeydew_Head_01.F_MED_HighTower_Honeydew_Head_01",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HighTower_Honeydew_Head_01/Meshes/F_MED_HighTower_Honeydew_Head_AnimBP_Child.F_MED_HighTower_Honeydew_Head_AnimBP_Child_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_AnimBP_Child.F_MED_Angel_Head_AnimBP_Child_C"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_HightowerHoneydew_Swole.uasset",
+            "msg": "Swapped Hat.",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/Parts/F_MED_HighTower_Honeydew_Swole_FaceAcc.F_MED_HighTower_Honeydew_Swole_FaceAcc",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/Parts/F_MED_Street_Fashion_Summer_FaceAcc.F_MED_Street_Fashion_Summer_FaceAcc"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Honeydew_Swole/Meshes/Parts/F_MED_HighTower_Honeydew_Swole_FaceAcc_AnimBP.F_MED_HighTower_Honeydew_Swole_FaceAcc_AnimBP_C",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Summer/Meshes/Parts/F_MED_Street_Fashion_Summer_FaceAcc_AnimBP.F_MED_Street_Fashion_Summer_FaceAcc_AnimBP_C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "AthenaType": "Character",
+        "SwapFromName": "She Hulk",
         "SwapToName": "Bordwalk Ruby",
         "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_842_athena_commando_f_hightowerhoneydew/variants/progressive/stage2.png",
         "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/cid_a_135_athena_commando_f_streetfashionsummer/smallicon.png",
@@ -417,7 +523,7 @@
         ]
       },
       {
-        "index":10,
+        "index":12,
         "AthenaType": "Other",
         "SwapFromName": "New Year 2020",
         "SwapToName": "    Tidal Wave",
@@ -438,7 +544,7 @@
         ]
       },
       {
-        "index":11,
+        "index":13,
         "AthenaType": "Other",
         "SwapFromName": "Pumpgun",
         "SwapToName": "    OG Pumpgun",
@@ -512,6 +618,203 @@
                   }
             ]
           }
+        ]
+      },
+      {
+        "index": 14,
+        "AthenaType": "Character",
+        "SwapFromName": "Default",
+        "SwapToName": "   Sparkle Specialist",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/smallicon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/CID_039_Athena_Commando_F_Disco/smallicon.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_Commando_Disco_F.CP_Commando_Disco_F"
+              },
+              {
+                "search": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
+                "replace": "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_Disco_ATH.F_MED_ASN_Sarah_Head_Disco_ATH"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "CP_Body_Commando_F_RebirthDefault0"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.uasset",
+            "msg": "Swapped Hat.",
+            "swaps": [
+              {
+                "search": "CP_Athena_Body_M_RebirthSoldier",
+                "replace": "CP_Athena_Body_M_RebirthSold1er"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "AthenaType": "Character",
+        "SwapFromName": "Default",
+        "SwapToName": "   Pink Ghoultrooper",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+        "SwapToImage": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/variants/material/mat3.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow.CP_124_Body_F_AuroraGlow"
+              },
+              {
+                "search": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
+                "replace": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.CP_Head_F_AuroraGlow"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.uasset",
+            "msg": "Swapped Head.",
+            "swaps": [
+              {
+                "search": "CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "CP_Body_Commando_F_RebirthDefault0"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.uasset",
+            "swaps": [
+              {
+                "search": "CP_Athena_Body_M_RebirthSoldier",
+                "replace": "CP_Athena_Body_M_RebirthSold1er"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow.uasset",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.uasset",
+            "swaps": [
+              {
+                "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
+                "replace": "/Game/Characters/CharacterColorSwatches/Skin/F_LRG_CAU.F_LRG_CAU"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
+                "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "AthenaType": "Character",
+        "SwapFromName": "Default",
+        "SwapToName": "   Purple Skull Trooper",
+        "SwapFromImage": "https://fortnite-api.com/images/cosmetics/br/CID_556_Athena_Commando_F_RebirthDefaultA/icon.png",
+        "SwapToImage": "https://cdn.discordapp.com/attachments/866420919887331348/868862603403878440/skull-trooper-style-3.png",
+        "Info": null,
+        "data": [
+          {
+            "asset": "FortniteGame/Content/Balance/DefaultGameDataCosmetics.uasset",
+            "msg": "Swapped Body.",
+            "swaps": [
+              {
+                "search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RaiderSilver.CP_Body_Commando_F_RaiderSilver"
+              },
+              {
+                "search": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RebirthDefaultA.CP_Head_F_RebirthDefaultA",
+                "replace": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_RaiderSilver.CP_F_MED_RaiderSilver"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RebirthDefaultA.uasset",
+            "swaps": [
+              {
+                "search": "CP_Body_Commando_F_RebirthDefaultA",
+                "replace": "CP_Body_Commando_F_RebirthDefault0"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_RebirthSoldier.uasset",
+            "swaps": [
+              {
+                "search": "CP_Athena_Body_M_RebirthSoldier",
+                "replace": "CP_Athena_Body_M_RebirthSold1er"
+              }
+            ]
+          },
+          {
+            "asset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RaiderSilver.uasset",
+            "swaps": [
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+                "replace": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Meshes/F_MED_Raider_Pink.F_MED_Raider_Pink",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino.M_MED_Dark_Dino"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Meshes/F_MED_Raider_Pink_AnimBP.F_MED_Raider_Pink_AnimBP_C",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dark_Dino/Meshes/M_MED_Dark_Dino_AnimBP.M_MED_Dark_Dino_AnimBP_C"
+              },
+              {
+                "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Raider_Pink/Skins/Silver/Materials/F_MED_Raider_Silver_Body.F_MED_Raider_Silver_Body",
+                "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Soldier_04_HW01_Red.M_Med_Soldier_04_HW01_Red"
+              }
+            ]
+          },
+      {
+        "asset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RaiderSilver.uasset",
+        "msg": "Swapped Hat.",
+        "swaps": [
+          {
+            "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Ice_Queen_Head/Meshes/F_MED_Ice_Queen_Head.F_MED_Ice_Queen_Head",
+            "replace": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Lazer_Head/Meshes/Male_Medium_Lazer_Head.Male_Medium_Lazer_Head"
+          },
+          {
+            "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Ice_Queen_Head/Meshes/F_MED_IceQueen_Head_Child_AnimBP.F_MED_IceQueen_Head_Child_AnimBP_C",
+            "replace": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Cyclone_Head/Meshes/M_MED_Cyclone_Head_AnimBP_child.M_MED_Cyclone_Head_AnimBP_child_C"
+          },
+          {
+            "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Ice_Queen_Head/Skins/Raider_Silver/Materials/F_MED_Raider_Silver_Head.F_MED_Raider_Silver_Head",
+            "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Commando_Head_01_HW01.M_Med_Commando_Head_01_HW01"
+          }
+        ]
+      }
         ]
       }
     ]
